@@ -1,5 +1,5 @@
 # CamerSante
-It is an application for making medical appointments between patients and doctors.
+It is an Java application for making medical appointments between patients and doctors.
 
 
 Add all the libraries (.jar files) that are in the meslibrary folder.
